@@ -70,11 +70,11 @@ A través de integraciones con servicios de mensajería como **WhatsApp**, MediR
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/medirecord.git
+git clone https://github.com/isairey/SistemaHistorialMedico.git
 ```
 Acceder al proyecto:
 ```
-cd medirecord
+cd SistemaHistorialMedico
 ```
 Importar la base de datos:
 ```
