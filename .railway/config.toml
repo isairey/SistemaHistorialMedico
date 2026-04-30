@@ -1,0 +1,6 @@
+[build]
+builder = "nixpacks"
+buildCommand = "apt-get update && apt-get install -y php8.2-mysql && composer install --no-dev"
+
+[deploy]
+startCommand = "php -S 0.0.0.0:$PORT -t ."

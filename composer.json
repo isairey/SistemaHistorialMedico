@@ -1,0 +1,10 @@
+{
+  "name": "medirecord/app",
+  "description": "MediRecord - Sistema de recordatorio de medicamentos",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  }
+}

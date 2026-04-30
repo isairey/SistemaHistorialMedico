@@ -1,0 +1,17 @@
+# Configuraciones sensibles
+config.local.php
+.env
+
+# Logs
+*.log
+logs/
+temp/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
